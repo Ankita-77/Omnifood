@@ -1,7 +1,7 @@
 # Omnifood
 <h3> SUMMARY </h3>
 
-+ Website is related to a fictional restaurant called "Omnifood". Omnifood provides all kind of a services realted to food delivery, annual memberships etc.
++ The website is related to a fictional restaurant called "Omnifood". Omnifood provides all kinds of services related to food delivery, annual memberships, etc.
 
 <h3> FOCUS </h3>
 
